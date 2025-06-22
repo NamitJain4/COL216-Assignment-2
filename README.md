@@ -1,7 +1,8 @@
 # RISC-V Pipelined Processor Simulator
 
-Rishabh Narayanan (2023CS10577)
-Namit Jain (2023CS10483)
+## Authors
+- Rishabh Narayanan (2023CS10577)
+- Namit Jain (2023CS10483)
 
 ## Overview
 This project implements a cycle-accurate simulator for a pipelined RISC-V processor with support for data forwarding. The simulator models the five classic pipeline stages (IF, ID, EX, MEM, WB) and handles various hazards that occur in pipelined architectures.
